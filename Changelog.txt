@@ -1,0 +1,26 @@
+Changelog: v1.0.0.6
+-Removed the basic map editor because of a screw-up
+-Fixed the regestering issues
+
+Changelog: v1.0.0.5
+-Created the basic map editor
+-Reverted account system from SQL Lite to .bin files
+-Misc. Optimizations to the server side
+
+Changelog: v1.0.0.4
+-Misc. bug fixes throughout the client/server
+
+Changelog: v1.0.0.3
+-Reverted account system from SQL Lite to .bin files
+-Misc. bug fixes throughout the client/server
+
+Changelog: v1.0.0.1
+-Revamped the main menu
+-Added a bugfix for buttons randomly not working
+-Patched a server side error mixing up a characters loginemail and character name values
+
+Changelog: v1.0.0.0
+-Created the base solution for the client and server
+-Added .BIN saving and loading for character files
+-Optimized the networkin class to handle data more rapidly
+-Created a class that holds structures for Players, Npcs, ect.. instead of types in modules.

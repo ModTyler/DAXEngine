@@ -1,0 +1,10 @@
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Server\obj\Debug\DAXEngine_Server.Resources.resources
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Server\obj\Debug\DAXEngine_Server.vbproj.GenerateResource.Cache
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Server\bin\Debug\DAXEngine_Server.exe.config
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Server\bin\Debug\DAXEngine_Server.exe
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Server\bin\Debug\DAXEngine_Server.pdb
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Server\bin\Debug\DAXEngine_Server.xml
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Server\obj\Debug\DAXEngine_Server.exe
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Server\obj\Debug\DAXEngine_Server.xml
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Server\obj\Debug\DAXEngine_Server.pdb
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Server\bin\Debug\DAXNetworkingComponent.dll

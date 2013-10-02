@@ -1,0 +1,11 @@
+﻿<configuration>
+	<resolution>
+		<width>640</width>
+		<height>480</height>
+	</resolution>
+	<audio>
+		<music>on</music>
+		<sound>on</sound>
+		<game>MainMenu.ogg</game>
+	</audio>
+</configuration>

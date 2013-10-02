@@ -1,0 +1,15 @@
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\bin\Debug\DAXEngine_Client.exe.config
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\bin\Debug\DAXEngine_Client.exe
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\bin\Debug\DAXEngine_Client.pdb
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\bin\Debug\DAXEngine_Client.xml
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\obj\Debug\DAXEngine_Client.Resources.resources
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\obj\Debug\DAXEngine_Client.frmClient.resources
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\obj\Debug\DAXEngine_Client.vbproj.GenerateResource.Cache
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\obj\Debug\DAXEngine_Client.exe
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\obj\Debug\DAXEngine_Client.xml
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\obj\Debug\DAXEngine_Client.pdb
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\bin\Debug\DAXNetworkingComponent.dll
+C:\Users\Tyler\Desktop\DAXEngine\DAXEngine_Client\obj\Debug\DAXEngine_Client.vbprojResolveAssemblyReference.cache
